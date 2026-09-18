@@ -1,0 +1,6 @@
+{
+  "name": "Aurora Terminal",
+  "description": "A web-based terminal interface with session persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
